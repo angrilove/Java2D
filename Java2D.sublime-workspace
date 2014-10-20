@@ -1,0 +1,937 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fal",
+				"Float"
+			],
+			[
+				"g",
+				"g2d"
+			],
+			[
+				"st",
+				"stroke"
+			],
+			[
+				"da",
+				"dashOffset"
+			],
+			[
+				"pen",
+				"penWidth"
+			],
+			[
+				"Gra",
+				"Graphics2D"
+			],
+			[
+				"D",
+				"draw"
+			],
+			[
+				"co",
+				"Color"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"mo",
+				"mouseOver"
+			],
+			[
+				"mouse",
+				"mouseOver"
+			],
+			[
+				"htt",
+				"httpContent"
+			],
+			[
+				"ne",
+				"nextDouble"
+			],
+			[
+				"tran",
+				"translate"
+			],
+			[
+				"tra",
+				"translate"
+			],
+			[
+				"ran",
+				"radians"
+			],
+			[
+				"ro",
+				"rotateFirst"
+			],
+			[
+				"add",
+				"addItemListener"
+			],
+			[
+				"che",
+				"checkboxGroup"
+			],
+			[
+				"rota",
+				"rotate"
+			],
+			[
+				"check",
+				"Checkbox"
+			],
+			[
+				"ch",
+				"checkboxGroup"
+			],
+			[
+				"chec",
+				"Checkbox"
+			],
+			[
+				"back",
+				"backColor"
+			],
+			[
+				"get",
+				"getCodeBase"
+			],
+			[
+				"de",
+				"depends"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"str",
+				"str"
+			],
+			[
+				"strin",
+				"StringTokenizer"
+			],
+			[
+				"re",
+				"repaint"
+			],
+			[
+				"lab",
+				"label"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"labe",
+				"Label"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"in",
+				"inputTextField"
+			],
+			[
+				"a",
+				"applet"
+			],
+			[
+				"ap",
+				"Applet"
+			],
+			[
+				"code",
+				"codebase	Attr"
+			],
+			[
+				"p",
+				"path"
+			],
+			[
+				"c",
+				"classpath"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"des",
+				"destdir"
+			],
+			[
+				"java",
+				"javac"
+			],
+			[
+				"P",
+				"public"
+			],
+			[
+				"stop",
+				"stopClip"
+			],
+			[
+				"cli",
+				"clipsPlaying"
+			],
+			[
+				"sto",
+				"stopAllClip"
+			],
+			[
+				"aud",
+				"AUDIOS"
+			],
+			[
+				"loo",
+				"loop"
+			],
+			[
+				"clip",
+				"clipIndex"
+			],
+			[
+				"set",
+				"setEnabled"
+			],
+			[
+				"audi",
+				"AudioClip"
+			],
+			[
+				"play",
+				"playClip"
+			],
+			[
+				"but",
+				"Button"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"Che",
+				"CheckboxGroup"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"d",
+				"drawRect"
+			],
+			[
+				"image",
+				"imageSize"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"gra",
+				"Graphics2D"
+			],
+			[
+				"i",
+				"imge"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"glo",
+				"globals"
+			],
+			[
+				"t",
+				"throw"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fro",
+				"for	for (…) {…}"
+			],
+			[
+				"tim",
+				"timestamp"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"tabl",
+				"tableName"
+			],
+			[
+				"ta",
+				"tableName"
+			],
+			[
+				"file",
+				"FILE_EXT"
+			],
+			[
+				"Io",
+				"IOException"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"finfo_",
+				"finfo_close"
+			],
+			[
+				"tmp",
+				"tmp_name"
+			],
+			[
+				"finfo",
+				"finfo_file"
+			],
+			[
+				"sha1",
+				"sha1_file"
+			],
+			[
+				"md",
+				"md5_file"
+			],
+			[
+				"upload",
+				"uploads"
+			],
+			[
+				"sco",
+				"Socket"
+			],
+			[
+				"File",
+				"FileInputStream"
+			],
+			[
+				"http",
+				"httpUpload"
+			],
+			[
+				"Sim",
+				"SimulateUpload"
+			],
+			[
+				"bour",
+				"BOUNDARY"
+			],
+			[
+				"form",
+				"form-data"
+			],
+			[
+				"bo",
+				"BOUNDARY"
+			],
+			[
+				"dire",
+				"DIRECTORY"
+			],
+			[
+				"por",
+				"PORT"
+			],
+			[
+				"Host",
+				"HOST"
+			],
+			[
+				"host",
+				"Host"
+			],
+			[
+				"string",
+				"StringBuffer"
+			],
+			[
+				"HTTPS",
+				"httpSocket"
+			],
+			[
+				"HTTP_",
+				"HTTP_1_1_PROTOCOL"
+			],
+			[
+				"q",
+				"queryString"
+			],
+			[
+				"h",
+				"HTTP_LINE"
+			],
+			[
+				"B",
+				"BufferedReader"
+			],
+			[
+				"e",
+				"encode"
+			],
+			[
+				"S",
+				"System"
+			],
+			[
+				"String",
+				"StringBuffer"
+			],
+			[
+				"HTTP",
+				"HTTP_NEW_LINE"
+			],
+			[
+				"HTT",
+				"HTTP_NEW_LINE"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"DSYW_BM",
+				"DSYW_BM_ZD"
+			],
+			[
+				"dsyw_bm",
+				"DSYW_BM_XTFL"
+			],
+			[
+				"where",
+				"WHERE"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n\nsvn https://192.168.191.249/svn/商密技术事业部\n\n数据库信息：\n	address：192.168.128.1 orcl\n	电子认证：dzrz 111111\n	地税运维：dsyw 111111\n\n原地税运维db：\n	address: 192.168.1.18\n	user: dsyw\n	pass: 111111\n\n\n图度 http://192.168.191.230 zhangbiao bbs90q&x\n\nRedmine http://192.168.191.240 ex4me bbs90q&x\n\n无线密码\nChinaHeFei\ningtaABC\n\nVPN账号\n\n192.30.136.237\nmy407 \npw123456\n\n\n",
+			"file": "/D/商密/README.md",
+			"file_size": 372,
+			"file_write_time": 130582627717689887,
+			"settings":
+			{
+				"buffer_size": 334,
+				"line_ending": "Unix",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"json",
+				"Indent JSON"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ant",
+				"Super Ant - List Targets"
+			],
+			[
+				"j",
+				"Set Syntax: JSON"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"JAVA",
+				"Set Syntax: Java"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jsp",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"log",
+				"Set Syntax: LaTeX Log"
+			],
+			[
+				"groo",
+				"Set Syntax: Groovy"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript (Literate)"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"makr",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 259.0,
+		"history":
+		[
+			"len('d7a521791f47949ac2c45aee91387c3d')",
+			"len('6f748d6fbd9bd57eb768a15768cf231535589693')",
+			"'6f748d6fbd9bd57eb768a15768cf231535589693'.len",
+			"cmd",
+			"javac --version",
+			"javac HttpSocket.java",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Workspace/Java2D",
+		"/D/Workspace/Java2D/assets"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/Molecule js/Molecule-master/examples/example_08/scripts/game.js",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/Molecule js/Molecule-master/bower.json",
+		"/C/xampp/htdocs/restricted/user_pwd.sql",
+		"/M/操作系统/10/技术预览版/README.md",
+		"/C/Users/Administrator/mercurial.ini",
+		"/C/Users/Administrator/.ssh/github_rsa",
+		"/C/Users/Administrator/.ssh/github_rsa.pub",
+		"/C/Users/Administrator/.loadui/workspace.xml",
+		"/C/Users/Administrator/HBuilder settings/Rubles/css.ruble/snippets/css_snippets.rb",
+		"/C/Users/Administrator/HBuilder settings/Rubles/css.ruble/cache.zh_CN.yml",
+		"/C/Users/Administrator/HBuilder settings/Rubles/css.ruble/bundle.rb",
+		"/C/Users/Administrator/Oracle/oradiag_Administrator/diag/clients/user_Administrator/host_3990254444_80/alert/log.xml",
+		"/C/Users/Administrator/.VirtualBox/VBoxSVC.log.3",
+		"/C/Users/Administrator/fancy/WJGame/fancy3d.lod",
+		"/C/Users/Administrator/soapui-settings.xml",
+		"/C/Users/Anshen/ntuser.dat",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_pagetolinks.zip/PageToLinks.php",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_zencoding.zip/ZenCoding/Plugin.php",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_zencoding.zip/ZenCoding/zen_textarea.js",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.728.394/HZ$D.728.396/超级矿工/超级矿工.txt",
+		"/D/Workspace/Java2D/src/alpha/draw/StrokeTest.java",
+		"/D/Workspace/Java2D/src/alpha/draw/ImageTest.java",
+		"/D/Workspace/Java2D/build.xml",
+		"/D/Workspace/Java2D/assets/html/ImageTest.html",
+		"/D/Workspace/Java2D/assets/html/StrokeTest.html",
+		"/D/Workspace/Java2D/assets/html/Minecraft.html",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Workspace/Java2D/src/alpha/game/Minecraft.java",
+		"/D/Share/powercmd_2.2/logs/CmdLog-2014 10 20 - 10 06 49.log",
+		"/D/Share/powercmd_2.2/logs/CmdLog-2014 10 20 - 08 47 01.log",
+		"/D/Workspace/Java2D/assets/html/ActApplet.html",
+		"/D/Workspace/Java2D/src/alpha/game/src/alpha/draw/ImageTest.java",
+		"/D/Workspace/Java2D/resources/html/Minecraft.html",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.633.4580/HZ$D.633.4581/超级矿工/超级矿工.txt",
+		"/D/Workspace/Java2D/Minecraft.java",
+		"/D/Workspace/Java2D/resources/html/MouseShapeTest.html",
+		"/D/Workspace/Java2D/src/alpha/shape/MouseShapeTest.java",
+		"/D/Workspace/Java2D/src/alpha/shape/src/alpha/shape/MouseShapeTest.java",
+		"/D/Workspace/Java2D/src/alpha/shape/ShapeApplet.java",
+		"/D/Workspace/Java2D/resources/html/ActApplet.html",
+		"/D/Workspace/Python/gethttpcontent.py",
+		"/D/Workspace/Typecho/admin/menu.php",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_simplecode_v1.0.2.zip/SimpleCode.php",
+		"/D/Workspace/Typecho/usr/plugins/HelloWorld/Plugin.php",
+		"/D/Workspace/IntelliJ/grails-racetrack/application.properties",
+		"/C/Grails/build.properties",
+		"/D/Workspace/Java2D/src/alpha/trans/AffineTest.java",
+		"/D/Workspace/Java2D/src/alpha/trans/InstanceTest.java",
+		"/D/Workspace/Java2D/resources/html/InstanceTest.html",
+		"/D/Workspace/Java2D/resources/html/ShapeApplet.html",
+		"/D/Workspace/Java2D/resources/html/AffineTest.html",
+		"/D/Usr/杂项.txt",
+		"/C/Windows/System32/wbem/xsl-mappings.xml",
+		"/C/Windows/WMSysPr9.prx",
+		"/D/Share/powercmd_2.2/session",
+		"/D/Workspace/Java2D/resources/html/KeyTest.html",
+		"/D/Workspace/Java2D/src/alpha/event/KeyTest.java",
+		"/D/Workspace/Java2D/src/alpha/draw/Scribble.java",
+		"/D/Workspace/Java2D/Java2D.sublime-project",
+		"/M/数据库软件/MS SQL Server/sql2005jdbc_chs/西西软件园.txt",
+		"/D/商密/商密技术事业部/项目/电子认证服务平台/SM2升级/(Default).xml",
+		"/M/数据库软件/MS SQL Server/Microsoft SQL Server JDBC Driver 3.0/sqljdbc_3.0/chs/install.txt",
+		"/M/数据库软件/数据库管理/kcwin32/doc/index.html",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_ase157_winx86.zip/sample_response.txt",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_ASE1254.zip/ASE1254/suite/com/sybase/sis/lang/SybaseLicensePanel_zh.properties",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_ASE1254.zip/ASE1254/suite/com/sybase/sis/lang/SISResourceBundle_zh.properties",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_ASE1254.zip/ASE1254/suite/e210e0de62398ae8007d171ca0a21b47/wizard.xml",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_ASE1254.zip/ASE1254/JVM/README.txt",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_10201_gateways_win32.zip/gateways/welcome.html",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_10201_clusterware_win32.zip/clusterware/welcome.html",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_10201_client_win32.zip/client/welcome.html",
+		"/C/Users/Administrator/AppData/Local/Temp/Temp1_sqljet-1.1.6-all.zip/sqljet-1.1.6/README.txt",
+		"/D/Minecraft1.8/mclauncher.cfg",
+		"/D/Workspace/Java2D/resources/html/Scribble.html",
+		"/D/Workspace/Java2D/resources/html/Scribble",
+		"/D/Minecraft1.8/hs_err_pid7556.log",
+		"/D/Minecraft1.8/.minecraft/launcher_profiles.json",
+		"/D/Atom/LICENSE",
+		"/D/Atom/version",
+		"/D/apache-ant-1.9.4/fetch.xml",
+		"/L/编程工具/develope/apache-tomcat-7.0.54/apache-tomcat-7.0.54/webapps/docs/appdev/sample/src/mypackage/Hello.java",
+		"/M/我的电子档/Java相关资料/JavaServerFaces/978-7-302-18549-9/JavaServer Faces核心编程（第2版）/ch13/error/src/java/com/corejsf/UserBean.java",
+		"/D/Workspace/Java2D/resources/html/AttributeTest.html",
+		"/D/Workspace/Java2D/resources/html/MouseTest.html",
+		"/D/Workspace/Java2D/src/alpha/event/MuseTest.java",
+		"/D/Workspace/Java2D/src/alpha/AttributeTest.java",
+		"/O/游戏拷贝/Minecraft/README.txt",
+		"/O/游戏拷贝/Minecraft/完整程序/1.8官方原版/README.txt",
+		"/C/Users/Administrator/Desktop/.minecraft/mclauncher.cfg",
+		"/C/Users/Administrator/Desktop/.minecraft/launcher_profiles.json",
+		"/C/Users/Administrator/AppData/Local/Temp/基础启动器源码/实用模块.ec",
+		"/C/Users/Administrator/AppData/Local/Temp/基础启动器源码/minecraft启动器纯源码.e",
+		"/C/Users/Administrator/Desktop/.minecraft/versions/1.8/1.8.json",
+		"/C/Users/Administrator/Desktop/.minecraft/assets/indexes/1.8.json",
+		"/D/MC/server.properties",
+		"/D/MC/eula.txt",
+		"/D/MC/logs/latest.log",
+		"/O/游戏拷贝/Minecraft/完整程序/1.8官方原版/server.properties",
+		"/M/游戏和设计/Java游戏开发.txt",
+		"/C/Users/Administrator/AppData/Roaming/.minecraft/launcher_profiles.json",
+		"/C/Users/Administrator/AppData/Roaming/.minecraft/versions/1.8/1.8.json",
+		"/C/Users/Administrator/AppData/Roaming/.minecraft/logs/latest.log",
+		"/C/Users/Administrator/AppData/Roaming/.minecraft/textures_1.png",
+		"/C/Users/Administrator/AppData/Roaming/.minecraft/textures_2.png",
+		"/C/Users/Administrator/AppData/Roaming/.minecraft/textures_3.png",
+		"/C/Users/Administrator/AppData/Roaming/.minecraft/textures_4.png",
+		"/C/Users/Administrator/AppData/Roaming/.minecraft/textures_0.png",
+		"/C/Users/Administrator/AppData/Roaming/.minecraft/mods/VoxelMods/voxelMap/Fuck World.~.minecraft.points",
+		"/D/Minecraft1.8/.minecraft/options.txt",
+		"/D/Minecraft1.8完整版本/mclauncher.cfg",
+		"/D/Minecraft1.8完整版本/hs_err_pid11692.log",
+		"/D/Workspace/Java2D/resources/html/CardLayoutTest.html",
+		"/D/Workspace/Java2D/resources/html/CardTest.html",
+		"/D/Workspace/Java2D/resources/html/PanelTest.html",
+		"/C/Grails/doc/api/grails/converters/JSON.Builder.html",
+		"/C/Users/Administrator/AppData/Roaming/npm-cache/registry.npmjs.org/abbrev/.cache.json",
+		"/D/Workspace/Java2D/resources/html/BorderLayoutTest.html",
+		"/D/Workspace/Java2D/resources/html/FlowLayoutTest.html",
+		"/D/Workspace/LUNA/j2d/bin/java.policy.applet",
+		"/C/Users/Administrator/Desktop/LEARNING -py.md",
+		"/C/Users/Administrator/Desktop/2012112615251290.png",
+		"/N/各公司架构/7E11CCDB1905 Created by mindnote pro.png",
+		"/N/各公司架构/7E11CCDB1905.png",
+		"/D/PythonScript/PythonScript/scripts/startup.py",
+		"/D/PythonScript/PythonScript/lib/ntpath.py",
+		"/D/新建文件夹/PythonScript/scripts/startup.py",
+		"/D/新建文件夹/PythonScript/lib/mimify.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"			\n",
+			"inputTextField",
+			"repaint",
+			"encoding",
+			"location",
+			"minimap",
+			"border",
+			";\n",
+			"CN",
+			"lang",
+			"map",
+			"getname",
+			"new date",
+			"key",
+			"word_wrap",
+			"update_check",
+			"processInstanceId",
+			"Grails",
+			"Grails-grailsPlugins.iml",
+			"DSYW_BM_XTFL",
+			"				\n",
+			"203.208.46",
+			"REM",
+			"strPrivKeyDevParam"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"text",
+			"name"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/商密/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								200
+							]
+						],
+						"settings":
+						{
+							"in_converting": true,
+							"origin_encoding": "GB2312",
+							"parser": null,
+							"revert_to_scratch": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"target": "disk",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 48.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 258.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Java2D.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Workspace\\Java2D\\Java2D.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

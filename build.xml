@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Java2D" default="dist" basedir=".">
+	<description>
+		Java2D project build file.
+	</description>
+	<!-- Set global properties for this build -->
+	<property name="assets" location="assets"/>
+	<property name="src" location="src"/>
+	<property name="build" location="build"/>
+	<property name="dist" location="lib"/>
+
+	<target name="init">
+		<!-- Create the time stamp -->
+		<tstamp/>
+
+		<!-- Create the build directory structure used by compile -->
+		<mkdir dir="${build}"/>
+
+		<!-- Copy ${assets}/image files into ${build}/image -->
+		<copy todir="${build}">
+			<fileset dir="${assets}">
+				<include name="image/"/><!-- '/'斜杠是必须的，否则只创建同名文件夹 -->
+			</fileset>
+		</copy>
+
+		<!-- Copy ${assets}/audio files into ${build}/audio -->
+		<copy todir="${build}">
+			<fileset dir="${assets}">
+				<include name="audio/**"/>
+			</fileset>
+		</copy>
+	</target>
+
+	<target name="compile" depends="init"
+			description="compile the source">
+
+		<!--
+			Compile the java code from ${src} into ${build}.
+			If 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds.
+		-->
+		<javac srcdir="${src}" destdir="${build}" encoding="UTF-8" includeantruntime="on" debug="on"/>
+		<!--
+		<javac encoding="UTF-8" destdir="${compile.dir}" debug="on" source="1.6">
+			<src path="${src.java.dir}"/>
+			<patternset refid="compile.sources"/>
+			<classpath>
+				<path refid="compile.dependencies"/>
+			</classpath>
+		</javac>
+		-->
+	</target>
+
+	<target name="dist" depends="compile"
+			description="generate the distribution" >
+		<!-- Create the distribution directory -->
+		<mkdir dir="${dist}"/>
+
+		<!-- Put everything in ${build} into the Java2D-${DSTAMP}.jar file -->
+		<jar jarfile="${dist}/java2d-${DSTAMP}.jar" basedir="${build}"/>
+	</target>
+
+	<target name="clean"
+			description="clean up">
+		<!-- Delete the ${build} and ${dist} directory trees -->
+		<delete dir="${build}"/>
+		<delete dir="${dist}"/>
+	</target>
+</project>
