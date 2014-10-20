@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"Gra",
+				"GradientTest"
+			],
+			[
+				"flo",
+				"Float"
+			],
+			[
+				"Po",
+				"Point2D"
+			],
+			[
+				"ra",
+				"radians"
+			],
+			[
+				"rad",
+				"radians"
+			],
+			[
+				"po",
+				"poly"
+			],
+			[
+				"f",
+				"fore	for (each)"
+			],
+			[
 				"fal",
 				"Float"
 			],
@@ -22,10 +50,6 @@
 			[
 				"pen",
 				"penWidth"
-			],
-			[
-				"Gra",
-				"Graphics2D"
 			],
 			[
 				"D",
@@ -447,23 +471,11 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "\n\nsvn https://192.168.191.249/svn/商密技术事业部\n\n数据库信息：\n	address：192.168.128.1 orcl\n	电子认证：dzrz 111111\n	地税运维：dsyw 111111\n\n原地税运维db：\n	address: 192.168.1.18\n	user: dsyw\n	pass: 111111\n\n\n图度 http://192.168.191.230 zhangbiao bbs90q&x\n\nRedmine http://192.168.191.240 ex4me bbs90q&x\n\n无线密码\nChinaHeFei\ningtaABC\n\nVPN账号\n\n192.30.136.237\nmy407 \npw123456\n\n\n",
-			"file": "/D/商密/README.md",
-			"file_size": 372,
-			"file_write_time": 130582627717689887,
-			"settings":
-			{
-				"buffer_size": 334,
-				"line_ending": "Unix",
-				"scratch": true
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 104.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
@@ -615,11 +627,20 @@
 	},
 	"expanded_folders":
 	[
-		"/D/Workspace/Java2D",
-		"/D/Workspace/Java2D/assets"
+		"/D/Workspace/GitHub/Java2D",
+		"/D/Workspace/GitHub/Java2D/assets",
+		"/D/Workspace/GitHub/Java2D/assets/html",
+		"/D/Workspace/GitHub/Java2D/src",
+		"/D/Workspace/GitHub/Java2D/src/alpha",
+		"/D/Workspace/GitHub/Java2D/src/alpha/draw"
 	],
 	"file_history":
 	[
+		"/D/Workspace/GitHub/Java2D/assets/html/ActApplet.html",
+		"/D/Workspace/GitHub/Java2D/src/alpha/draw/ImageTest.java",
+		"/D/Workspace/GitHub/Java2D/src/alpha/draw/GradientTest.java",
+		"/D/Workspace/GitHub/Java2D/assets/html/GradientTest.html",
+		"/D/商密/README.md",
 		"/C/xampp/htdocs/Molecule js/Molecule-master/examples/example_08/scripts/game.js",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/C/xampp/htdocs/Molecule js/Molecule-master/bower.json",
@@ -742,12 +763,7 @@
 		"/D/Workspace/LUNA/j2d/bin/java.policy.applet",
 		"/C/Users/Administrator/Desktop/LEARNING -py.md",
 		"/C/Users/Administrator/Desktop/2012112615251290.png",
-		"/N/各公司架构/7E11CCDB1905 Created by mindnote pro.png",
-		"/N/各公司架构/7E11CCDB1905.png",
-		"/D/PythonScript/PythonScript/scripts/startup.py",
-		"/D/PythonScript/PythonScript/lib/ntpath.py",
-		"/D/新建文件夹/PythonScript/scripts/startup.py",
-		"/D/新建文件夹/PythonScript/lib/mimify.py"
+		"/N/各公司架构/7E11CCDB1905 Created by mindnote pro.png"
 	],
 	"find":
 	{
@@ -808,43 +824,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/D/商密/README.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 334,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								178,
-								200
-							]
-						],
-						"settings":
-						{
-							"in_converting": true,
-							"origin_encoding": "GB2312",
-							"parser": null,
-							"revert_to_scratch": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"target": "disk",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 48.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
