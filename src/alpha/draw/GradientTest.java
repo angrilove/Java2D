@@ -1,11 +1,24 @@
 package alpha.draw;
 
-import java.awt.*;
-import java.applet.*;
-import java.awt.geom.*;
+import java.applet.Applet;
+import java.awt.Color;
+import java.awt.GradientPaint;
+import java.awt.Graphics;
+import java.awt.Graphics2D;
+import java.awt.Polygon;
+import java.awt.geom.AffineTransform;
+import java.awt.geom.Point2D;
 
+/**
+ * 绘制仿射线
+ * 
+ * @author Anshen
+ *
+ */
 public class GradientTest extends Applet {
-	// 
+
+	private static final long serialVersionUID = 1L;
+
 	private Polygon poly;
 	private Point2D p1;
 	private Point2D p2;

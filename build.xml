@@ -38,7 +38,7 @@
 			Compile the java code from ${src} into ${build}.
 			If 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds.
 		-->
-		<javac srcdir="${src}" destdir="${build}" encoding="UTF-8" includeantruntime="on" debug="on"/>
+		<javac srcdir="${src}" destdir="${build}" encoding="UTF-8" includeantruntime="on" debug="on" source="1.7"/>
 		<!--
 		<javac encoding="UTF-8" destdir="${compile.dir}" debug="on" source="1.6">
 			<src path="${src.java.dir}"/>

@@ -22,7 +22,7 @@ public class AudioChoiceTest extends Applet implements ActionListener {
 	public final String[] AUDIOS = {
 			"ping", "pop", "return",
 			"salvation", "shuffle", "squish"
-			};
+		};
 
 	private AudioClip[] clips;
 
